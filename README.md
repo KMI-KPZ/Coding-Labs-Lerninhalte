@@ -1,6 +1,8 @@
 # Coding-Labs-Lerninhalte und Tools
 Im Coding Labs Projekt entwickeln wir Handreichungen für Lehrkräfte und Dozierende sowie Unterrichtsmaterialien, die zum Testen der Coding Labs Umgebung im Unterricht und zum Erstellen von Lehrmaterialien genutzt werden können. Diese Materialien sind hier verfügbar und können nach dem Download in die persönliche Coding Labs Umgebung oder eine andere Jupyter-basierte Umgebung geladen, bzw. mit den Lernenden geteilt werden. Sie sind in der Jupyter-Umgebung auch veränderbar und können so an die eigenen Unterrichtsziele angepasst werden.
 
+Das Projekt Coding Labs wird im Rahmen der Maßnahme „Initiative Nationale Bildungsplattform” (Förderkennzeichen 16INB2008 ff.) vom Bundesministerium für Bildung und Forschung (BMBF) gefördert und vom Projektträger VDI-VDE IT betreut.
+
 ## Kursmaterial
 
 ### Einführungskurs für den Informatikunterricht an Schulen (Python Grundlagen (DE, Kl. 10, auf CL vorinstalliert))
